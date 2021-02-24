@@ -6,6 +6,8 @@ Using OpenCV library
 - Facial Recognition can identify and name who a person is 
 
 ### Projects
-1. Video Facial Detection
-2. Video Facial Recognition
-3. Emotion Detector
+1. Image Facial Detection 
+2. Image Facial Recognition 
+3. Video Facial Detection
+4. Video Facial Recognition
+5. Emotion Detector
