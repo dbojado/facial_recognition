@@ -1,3 +1,6 @@
 # Facial Recognition
+Using OpenCV library
 
-### OpenCV Projects
+### Projects
+1. Video Facial Recognition
+2. Emotion Detector
