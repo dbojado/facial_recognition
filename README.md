@@ -10,4 +10,6 @@ Using OpenCV library
 2. Image Facial Recognition 
 3. Video Facial Detection
 4. Video Facial Recognition
-5. Emotion Detector
+5. Image Emotion Detector
+6. Video Emotion Detector
+7. Live Emotion Detector
