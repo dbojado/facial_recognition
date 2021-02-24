@@ -1,6 +1,11 @@
 # Facial Recognition
 Using OpenCV library
 
+### Facial Detection vs. Facial Recognition
+- Facial Detection can determine there is a face in an image, however it cannot determine who that person is 
+- Facial Recognition can identify who a person is 
+
 ### Projects
-1. Video Facial Recognition
-2. Emotion Detector
+1. Video Facial Detection
+2. Video Facial Recognition
+3. Emotion Detector
